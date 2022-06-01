@@ -1,5 +1,7 @@
 {
   "all": "All",
+  "show_more": "Show more",
+  "show_less": "Show less",
   "active_lang": "current language",
   "langs": {
     "show_all": "Show all languages"
@@ -166,8 +168,8 @@
     "variant_by": "Variant of",
     "published_by": "Published by",
     "software_maintained_by": "Software maintained by",
-    "technical_contact": "Technical contact",
-    "technical_contacts": "Technical contacts",
+    "technical_contact_one": "Technical contact",
+    "technical_contact_other": "Technical contacts",
     "technical_detail": "Technical detail",
     "vitality": "Vitality",
     "goToLandingUrl": "Project's website",
@@ -181,8 +183,8 @@
     "functionality_other_variant": "Functionality of others variants",
     "used_by": "Used by",
     "development_status": "Development status",
-    "administration": "administration",
-    "administrations": "administrations",
+    "administration_one": "administration",
+    "administration_other": "administrations",
     "variants_present": "variants present",
     "variant_present": "variant present",
     "show_all": "Show all",
