@@ -31,8 +31,8 @@ export const TagList = (props: TagListProps) => {
   return (
     <>
       {shownTags().map((tag, i) => (
-        <Chip>
-          <ChipLabel key={i}>
+        <Chip key={i}>
+          <ChipLabel>
             <a className={classes.link} href="#" onClick={(e) => e.preventDefault()}>{tag}</a>
           </ChipLabel>
         </Chip>
